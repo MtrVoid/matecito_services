@@ -1,5 +1,7 @@
 # [¡Invita a Matecito🧉 a tu servidor!](https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot)
 Desde aquí podrás invitar a [Matecito🧉](https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot) a tu servidor de Discord y también leer los Términos de Servicio y las Políticas de Privacidad.
+Has click en el título principal del "README.md" o copia el siguiente enlace y úsalo.
+`https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot`
 
 # Términos de Servicio (ToS) para el bot Matecito🧉
 Última actualización: 26/9/2024
