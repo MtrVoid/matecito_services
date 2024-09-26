@@ -3,7 +3,7 @@
 Esta es la planilla oficial de Matecito🧉. Aquí podrás encontrar cómo Invitar al Bot a tu Servidor, los Términos de Servicio y las Políticas de Privacidad.
 
 - [MtrVoid](https://github.com/MtrVoid) - Desarrollador principal
-  ## Tabla de Contenidos
+  ## Índice.
   - [Invitación](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#invita-a-matecito-a-tu-servidor)
   - [Donaciones](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#donaciones-y-finacianción)
   - [Servicio](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#pol%C3%ADticas-de-privacidad-para-el-bot-matecito)
