@@ -1,7 +1,27 @@
+# ¡Bienvenido!
+
+Esta es la planilla oficial de Matecito🧉. Aquí podrás encontrar cómo Invitar al Bot a tu Servidor, los Términos de Servicio y las Políticas de Privacidad.
+
+- [MtrVoid](https://github.com/MtrVoid) - Desarrollador principal
+  ## Tabla de Contenidos
+  - [Invitación](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#invita-a-matecito-a-tu-servidor)
+  - [Donaciones](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#donaciones-y-finacianción)
+  - [Servicio](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#pol%C3%ADticas-de-privacidad-para-el-bot-matecito)
+  - [Privacidad](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#pol%C3%ADticas-de-privacidad-para-el-bot-matecito)
+
+![MatectioLogo2](https://github.com/user-attachments/assets/44f2e2a0-5f6d-4efb-888a-5fe3768bd848)
+
 # [¡Invita a Matecito🧉 a tu servidor!](https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot)
-Desde aquí podrás invitar a [Matecito🧉](https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot) a tu servidor de Discord y también leer los Términos de Servicio y las Políticas de Privacidad.
-Has click en el título principal del "README.md" o copia el siguiente enlace y úsalo.
-`https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot`
+  Desde aquí podrás invitar a [Matecito🧉](https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot) a tu servidor de Discord y también leer los Términos de Servicio y las Políticas de Privacidad.
+  Has click en el título principal del "README.md" o copia el siguiente enlace y úsalo.
+  ```https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot```
+
+# Donaciones y finacianción.
+  Actualmente Matecito🧉 es completamente GRATUITO pero se encuentra bajo finacianción de donaciones en nuestro [Cafecito llamado "Matecito Discord"](https://cafecito.app/matecitobotdiscord).
+  
+  Este está configurado para que cada cafecito sólo cueste 100 pesos, haciendo que todos puedan donar aunque sea un poco.
+  
+  Todo el dinero donado se irá directamente a mantener y pagar el host.
 
 # Términos de Servicio (ToS) para el bot Matecito🧉
 Última actualización: 26/9/2024
