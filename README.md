@@ -12,19 +12,19 @@ Esta es la planilla oficial de Matecito🧉. Aquí podrás encontrar cómo Invit
 ![MatectioLogo2](https://github.com/user-attachments/assets/44f2e2a0-5f6d-4efb-888a-5fe3768bd848)
 
 # [¡Invita a Matecito🧉 a tu servidor!](https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot)
-  Desde aquí podrás invitar a [Matecito🧉](https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot) a tu servidor de Discord y también leer los Términos de Servicio y las Políticas de Privacidad.
-  Has click en el título principal del "README.md" o copia el siguiente enlace y úsalo.
+Desde aquí podrás invitar a [Matecito🧉](https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot) a tu servidor de Discord y también leer los Términos de Servicio y las Políticas de Privacidad.
+Has click en el título principal de este apartado o copia el siguiente enlace y úsalo.
   
   ```
 https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot
   ```
 
-# Donaciones y finacianción.
-  Actualmente Matecito🧉 es completamente GRATUITO pero se encuentra bajo finacianción de donaciones en nuestro [Cafecito llamado "Matecito Discord"](https://cafecito.app/matecitobotdiscord).
+# Donaciones y Comunidad.
+Actualmente Matecito🧉 es completamente GRATUITO pero se encuentra bajo finacianción de donaciones en nuestro [Cafecito llamado "Matecito Discord"](https://cafecito.app/matecitobotdiscord). Este está configurado para que cada cafecito sólo cueste 100 pesos, haciendo que todos puedan donar aunque sea un poco.
   
-  Este está configurado para que cada cafecito sólo cueste 100 pesos, haciendo que todos puedan donar aunque sea un poco.
-  
-  Todo el dinero donado se irá directamente a mantener y pagar el host.
+Todo el dinero donado se irá directamente a mantener y pagar el host.
+
+Además de todo esto tenemos un pedazito en una hermosa comunidad. Te invitamos a ser parte del servidor de Discord: [Steam Argentina](https://discord.gg/2DynfUtQjy). Aquí podrás hablar con el creador de Matecito🧉 y resvolver tus dudas sobre el proyecto, también revisar las últimas actualizaciones sobre el trabajo y comunicarte con el resto de la comunidad. Siempre que necesites ayuda no dudes en arrobar al rol "🧉 Matecito Dev".
 
 # Términos de Servicio (ToS) para el bot Matecito🧉
 Última actualización: 26/9/2024
