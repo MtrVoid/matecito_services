@@ -1,6 +1,6 @@
 # ¡Bienvenido!
 
-Esta es la planilla oficial de Matecito🧉. Aquí podrás encontrar cómo Invitar al Bot a tu Servidor, los Términos de Servicio y las Políticas de Privacidad.
+Esta es la planilla oficial de Matecito🧉. Aquí podrás encontrar cómo Invitar al Bot a tu Servidor, las Donaciones y Comunidad, los Términos de Servicio y las Políticas de Privacidad.
 
 - [MtrVoid](https://github.com/MtrVoid) - Desarrollador principal
   ## Índice.
