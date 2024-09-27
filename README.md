@@ -6,7 +6,7 @@ Esta es la planilla oficial de Matecito🧉. Aquí podrás encontrar cómo Invit
   ## Índice.
   - [Invitación](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#invita-a-matecito-a-tu-servidor)
   - [Donacionesy Comunidad](https://github.com/MtrVoid/matecito_services/blob/main/README.md#donaciones-y-comunidad)
-  - [Servicio](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#pol%C3%ADticas-de-privacidad-para-el-bot-matecito)
+  - [Servicio](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#t%C3%A9rminos-de-servicio-tos-para-el-bot-matecito)
   - [Privacidad](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#pol%C3%ADticas-de-privacidad-para-el-bot-matecito)
 
 ![MatectioLogo2](https://github.com/user-attachments/assets/44f2e2a0-5f6d-4efb-888a-5fe3768bd848)
