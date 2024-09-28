@@ -9,7 +9,7 @@ Esta es la planilla oficial de Matecito🧉. Aquí podrás encontrar cómo Invit
   - [Servicio](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#t%C3%A9rminos-de-servicio-tos-para-el-bot-matecito)
   - [Privacidad](https://github.com/MtrVoid/matecito_services?tab=readme-ov-file#pol%C3%ADticas-de-privacidad-para-el-bot-matecito)
 
-![MatectioLogo2](https://github.com/user-attachments/assets/44f2e2a0-5f6d-4efb-888a-5fe3768bd848)
+![MatecitoLogo128](https://github.com/user-attachments/assets/73ad7957-a4e4-401a-996d-34b8a3561b13)
 
 # [¡Invita a Matecito🧉 a tu servidor!](https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot)
 Desde aquí podrás invitar a [Matecito🧉](https://discord.com/oauth2/authorize?client_id=1283401603843493960&permissions=689879477312&integration_type=0&scope=bot) a tu servidor de Discord y también leer los Términos de Servicio y las Políticas de Privacidad.
