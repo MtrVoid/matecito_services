@@ -116,3 +116,13 @@ Nos reservamos el derecho de modificar estas Políticas de Privacidad en cualqui
 
 9. Contacto
 Si tienes alguna pregunta o inquietud sobre estas Políticas de Privacidad o el uso del bot Matecito🧉, puedes ponerte en contacto con nosotros a través del siguiente enlace: [GitHub](https://github.com/MtrVoid/matecito_services).
+
+# Capturas de Matecito🧉:
+![Captura de pantalla 2024-09-25 105652](https://github.com/user-attachments/assets/30d758cc-2a82-4789-8b48-2903609d1091)
+
+![Captura de pantalla 2024-09-25 105704](https://github.com/user-attachments/assets/e1b0150b-32ea-477f-94f1-767ff16dd8b6)
+
+![Captura de pantalla 2024-10-02 145911](https://github.com/user-attachments/assets/30509844-c0f2-4e39-87f6-16bb7be45353)
+
+![Captura de pantalla 2024-10-02 150007](https://github.com/user-attachments/assets/980e2755-3ce3-41ee-9349-9b47e0d7bbf9)
+
